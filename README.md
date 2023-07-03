@@ -1,5 +1,5 @@
 ### Hi my name is Marina =)👋
-I'm a passionate Certified Tech Developer from Mendoza, Argentina
+I'm a passionate Front Developer from Mendoza, Argentina
 
 If you want to know more about me 
 
