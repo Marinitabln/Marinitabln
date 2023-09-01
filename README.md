@@ -11,7 +11,7 @@ const Marina = {
   code: [Next, React, Javascript,  HTML5, CSS, Java],
   technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["Next", "Typescript", "React"],
       },
       backEnd: {
          java: ["SpringBoot", "Hibernate"],
