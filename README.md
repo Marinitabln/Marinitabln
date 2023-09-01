@@ -3,6 +3,7 @@ I'm a passionate Front Developer from Mendoza, Argentina
 
 If you want to know more about me 
 
+
 const Marina = {
   pronouns: "she" | "her",
   code: [Javascript,  HTML5, CSS, Java],
@@ -17,7 +18,7 @@ const Marina = {
       databases: ["MySQL, MongoDB"]
    }
 }
-Languages and tools
+## 🛠 Skills
 html5 css3 sass js react java springboot mySQL git github 
 
 Follow me on LinkedIn 🤗
