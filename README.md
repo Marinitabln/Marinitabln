@@ -8,10 +8,10 @@ If you want to know more about me
 ```javascript
 const Marina = {
   pronouns: "she" | "her",
-  code: [Next, React, Javascript, HTML5, CSS, Java],
+  code: [Next.js, React, Javascript, HTML5, CSS, Java],
   technologies: {
       frontEnd: {
-         js: ["Next", "Typescript", "React"],
+         js: ["Next.js", "Typescript", "React"],
       },
       backEnd: {
          java: ["SpringBoot", "Hibernate"],
